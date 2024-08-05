@@ -100,4 +100,4 @@ python manage.py runserver
 В ответ Django сообщит, что сервер запущен и проект доступен по адресу [http://127.0.0.1:8000/](http://127.0.0.1:8000/). 
 
 ### Результат
-![Скриншот](anfisa_for_friends\static_dev\image.png)
+![Скриншот](anfisa_for_friends/static_dev/image.png)
